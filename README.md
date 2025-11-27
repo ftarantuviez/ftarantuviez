@@ -1,6 +1,5 @@
 # Francisco Tarantuviez
 ### Senior Blockchain & Full‑Stack Engineer  
-Mendoza, Argentina — francisco@tarantuviez.com
 
 ## About Me
 I’m a Blockchain & Full‑Stack Engineer with 8+ years of experience building high‑impact Web3 and DeFi products. I focus on scalable architecture, cross‑chain systems, smart contracts, real‑time indexing pipelines, and end‑to‑end product development. I enjoy taking products from zero to production and supporting them as they grow to hundreds of thousands of users.
