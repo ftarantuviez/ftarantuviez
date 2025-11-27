@@ -1,47 +1,37 @@
-# 👋 Hey, I'm Francisco Tarantuviez
+# Francisco Tarantuviez
+### Senior Blockchain & Full‑Stack Engineer  
+Mendoza, Argentina — francisco@tarantuviez.com
 
-🚀 **Lead FullStack Web3 Engineer** | DeFi | Blockchain | Smart Contracts | EVM | Cross-Chain Solutions
+## About Me
+I’m a Blockchain & Full‑Stack Engineer with 8+ years of experience building high‑impact Web3 and DeFi products. I focus on scalable architecture, cross‑chain systems, smart contracts, real‑time indexing pipelines, and end‑to‑end product development. I enjoy taking products from zero to production and supporting them as they grow to hundreds of thousands of users.
 
----
+## Experience
 
-## 🌐 About Me
-I'm a passionate **Web3 Engineer** with a strong background in **DeFi**, **cross-chain interoperability**, and **scalable blockchain solutions**. I specialize in **Solidity, Node.js, React, and AWS**, leading teams to build high-performance decentralized applications (dApps).
+### Lead Blockchain Full‑Stack Engineer — Turtle (2025–Present)
+Leading the architecture and development of the first Web3 Distribution Protocol. Built systems that track, reward, and monetize user activity across DeFi. Contributed across smart contracts, indexers, backend services, and dashboards. Turtle scaled to 360K+ wallets, $5B+ in routed liquidity, and became the largest distribution protocol in its category.
 
-🔹 **Expert in:** Smart Contracts, Solidity, EVM, LayerZero, Viem, Wagmi, Next.js  
-🔹 **Blockchain Experience:** DeFi Lending, Staking, On-Chain Data Aggregation  
-🔹 **Leadership:** Team Management, Code Reviews, Agile Development  
+### Lead Blockchain Full‑Stack Engineer — Soul Labs (2023–2025)
+Led engineering for a cross‑chain lending aggregator. Built the full stack—from smart contracts to the web app and backend services. Soul reached 500K+ users, 2M+ transactions, and significant community growth.
 
-💡 Passionate about decentralization, innovation, and pushing the boundaries of blockchain technology!
+### Senior Web3 Engineer — Hatom (2023–2025)
+Contributed to the core architecture of a lending protocol on MultiversX, which surpassed $300M TVL. Worked on smart contract integrations, front‑end interfaces, and backend services.
 
----
+### Lead Full‑Stack Engineer — ASAPP (2021–2023)
+Developed full‑stack features and Chrome extension products that extended ASAPP’s AI functionality into external workflows. Helped ship real‑time, scalable user experiences for a company valued at $1B+.
 
-## 🚀 Now Building
+### Senior Full‑Stack Engineer — Toket (2020–2021)
+Built NFT ticketing products across web, mobile, backend, and smart contracts. Delivered cross‑platform experiences and reliable blockchain interactions.
 
-### **Soul Labs ( )**
-**A cutting-edge DeFi lending protocol enabling seamless cross-chain and cross-protocol borrowing within the EVM ecosystem.**
-- Architecting **cross-chain interoperability** using **LayerZero**.
-- Ensuring secure and efficient **smart contract** interactions.
-- Optimizing **on-chain data aggregation** for improved performance.
+### Senior Software Engineer — PayPal (2019–2020)
+Worked on the UK crypto exchange product. Focused on secure, performant front‑end development and collaborated with international teams on backend features.
 
-### **Hatom**
-**A decentralized finance protocol offering lending, borrowing, and liquid staking on MultiversX.**
-- Enhancing blockchain integrations for **seamless DeFi experiences**.
-- Designing and optimizing complex **financial logic and mathematical operations**.
+### Full‑Stack Roles — AgendaPro & Nalarocks (2018–2019)
+Built and optimized full‑stack product features, worked with growth teams, and delivered end‑to‑end functionality for SaaS platforms.
 
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** TypeScript, Solidity, JavaScript, GraphQL
-- **Frontend:** React.js, Next.js, Viem, Wagmi
-- **Backend:** Node.js, CI/CD, Databases
-- **Blockchain:** EVM, LayerZero, DeFi, Smart Contracts
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/francisco-tarantuviez-2a5381262/)  
-✉️ tarantuviezf@gmail.com
-
+## Skills
+- Blockchain & Smart Contracts  
+- Cross‑Chain Architecture  
+- Full‑Stack Engineering  
+- System Design & Data Pipelines  
+- APIs, Real‑Time Systems, Indexers  
+- Scalable Frontends & Backends  
